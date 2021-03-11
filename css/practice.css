@@ -1,0 +1,27 @@
+header{
+	background-color: #99A3A4;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+h2{
+	background-color: red;
+}
+h3{
+	background-color: #A9DFBF;
+}
+ul{
+	color: #ffffff;
+}
+ol{
+	color: #E74C3C;
+}
+footer{
+	background-color: #99A3A4;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+p{
+	color:#05484d;
+}

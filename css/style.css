@@ -1,0 +1,41 @@
+.heading{
+	background: #2e5161;
+	color: #fff;
+	text-align: center;
+	font-size: 30px;
+}
+.outline{
+	border: 2px solid blue;
+	background: orange;
+	color: #fff;
+
+}
+#dummy{
+	border: 2px dotted red;
+	background: rgba(145, 227, 192, .3);
+	color: #000;
+}
+.area{
+	background: blue;
+	width: 400px;
+	height: 400px;
+}
+.area_two{
+	background: red;
+	width: 200px;
+	height: 200px;
+	border-radius: 40px;
+}
+a:active{
+	color:yellow;
+}
+a:visited{
+	color:#000;
+}
+button{
+	width: 200px;
+	height: 30px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: red;
+}
